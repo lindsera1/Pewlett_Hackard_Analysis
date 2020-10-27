@@ -31,6 +31,8 @@ would need to be filled, and who would be eligible to fill them, we created 2 ta
 + The second table informed us of empoloyees within a specificed age range (born in 1965) who would be eligible
   to replace these positions. 
   
+![Employees](https://github.com/lindsera1/Pewlett_Hackard_Analysis/blob/main/Screen%20Shot%202020-10-26%20at%209.56.32%20PM.png)
+
 + Based from the information in both tables, we need at least 40,000 employees able to train and move up in 
 position.
 
